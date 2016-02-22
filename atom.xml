@@ -4,7 +4,7 @@
   <title><![CDATA[World Of The Little Hand]]></title>
   <link href="http://piosa.github.io/atom.xml" rel="self"/>
   <link href="http://piosa.github.io/"/>
-  <updated>2015-12-30T19:49:11+08:00</updated>
+  <updated>2016-02-22T12:51:15+08:00</updated>
   <id>http://piosa.github.io/</id>
   <author>
     <name><![CDATA[PiosaJiang]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Crash Code Line in Cocoa Touch Static Library]]></title>
+    <link href="http://piosa.github.io/blog/2016/02/22/the-crash-code-line-in-cocoa-touch-static-library/"/>
+    <updated>2016-02-22T12:42:40+08:00</updated>
+    <id>http://piosa.github.io/blog/2016/02/22/the-crash-code-line-in-cocoa-touch-static-library</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[End of 2015]]></title>
