@@ -4,7 +4,7 @@
   <title><![CDATA[World Of The Little Hand]]></title>
   <link href="http://piosa.github.io/atom.xml" rel="self"/>
   <link href="http://piosa.github.io/"/>
-  <updated>2016-02-22T13:10:04+08:00</updated>
+  <updated>2016-02-22T13:12:04+08:00</updated>
   <id>http://piosa.github.io/</id>
   <author>
     <name><![CDATA[PiosaJiang]]></name>
@@ -18,7 +18,7 @@
     <link href="http://piosa.github.io/blog/2016/02/22/the-crash-code-line-in-cocoa-touch-static-library/"/>
     <updated>2016-02-22T12:42:40+08:00</updated>
     <id>http://piosa.github.io/blog/2016/02/22/the-crash-code-line-in-cocoa-touch-static-library</id>
-    <content type="html"><![CDATA[<p><img class="[center]" src="[/images/2016/02/1.png]" title="[865] [610]" ></p>
+    <content type="html"><![CDATA[<p><img class="center" src="http://piosa.github.io/images/2016/02/1.png" width="865" height="610"></p>
 ]]></content>
   </entry>
   
